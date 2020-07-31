@@ -9,7 +9,7 @@ Com 11 anos de experiência em desenvolvimento web, acredito que sempre há o qu
 - Técnico em Informática – formado pela ETEC de Fernandópolis em 2009
 
 ## Experiência Profissional
-**UNIFEV – Webmaster – De 07/11/2016 até o momento.**
+**UNIFEV – Programador Full Stack – De 07/11/2016 até o momento.**
 >    Atividades: Desenvolvimento e Manutenção dos Websites da instituição (Mantenedora, Centro Universitário, Colégio Unifev, Sistema de Ensino, Rádio e TV) e as plataformas online de CMS (Sistema de gerenciamento de conteúdo), Eventos, Portal de alunos, docentes e colaboradores. Auxilio também na manutenção do Sistema Corporativo antigo que está operante e demanda suporte. Desenvolvimento de Aplicativos WPA.
 
 >    Resultados: Criação de soluções para um material de ensino infantil deu a instituição, condições de participar e vencer licitações na região. Participei também do projeto de Requerimentos Online que diminuiu o fluxo de atendimento em 40% e reduziu 30% do quadro de funcionários nesse setor. Criação de plataforma gestora de eventos com integração ao PagSeguro permitiu aumento da receita com eventos, maior integridade e relatórios estratégicos que auxiliaram a organização. 
@@ -17,13 +17,13 @@ Com 11 anos de experiência em desenvolvimento web, acredito que sempre há o qu
 **Illusion - Soluções Digitais** [illusionbr.com](https://illusionbr.com)
 >    Desenvolvimento de produtos digitais.
 
-**AgênciaOC Marketing Digital – Desenvolvedor Full Stack – De fevereiro de 2013 a novembro de 2016.**
+**AgênciaOC Marketing Digital – Programador Full Stack – De fevereiro de 2013 a novembro de 2016.**
 >    Gerencia de projetos, análise e desenvolvimento de plataformas e ferramentas empresariais.
 >    Desenvolvimento de CRM, E-commerce, sites institucionais, blogs e aplicações web personalizadas utilizando PHP, MySQL, JQuery, HTML5, CSS3.
 >    Desenvolvimento de aplicativos híbridos com HTML, CSS e JS compliados com Cordova.
 >    Suporte em servidor dedicado.
 
-**Surreal Multimídia – Desenvolvedor Full Stack – De julho de 2011 a janeiro de 2013.**
+**Surreal Multimídia – Programador Full Stack – De julho de 2011 a janeiro de 2013.**
 
 >    Vendas, administração e desenvolvimento de sistemas comerciais, websites e portais de conteúdo. 
 
@@ -75,4 +75,4 @@ Com 11 anos de experiência em desenvolvimento web, acredito que sempre há o qu
 ## Informações complementares
 - Utilizo Linux a 7 anos, mas não tenho problemas com Windows.
 - Aprendendo C#, Construct 2 e Unity 3D.
-- Atualmente, contribuo no desenvolvimento da plataforma open-source Tekoá, onde ganhei uma base na prática com conceito RESTful.
+- Atualmente, contribuo no desenvolvimento da plataforma open-source Tekoá.
